@@ -5,12 +5,77 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Управление версиями Git</title>
+      <link>https://example.com/post/post2/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post2/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями-в-git&#34;&gt;Управление версиями в Git&lt;/h2&gt;
+&lt;p&gt;Управление версиями в Git - это ключевой аспект разработки программного обеспечения, который позволяет эффективно отслеживать изменения в коде, управлять версиями проекта и сотрудничать с другими разработчиками. Вот несколько основных концепций и команд Git для управления версиями:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Инициализация репозитория: Для начала работы с Git необходимо инициализировать репозиторий в папке проекта с помощью команды git init.&lt;/li&gt;
+&lt;li&gt;Добавление файлов: Чтобы отслеживать изменения в файлах, используйте команду git add &lt;file&gt; для добавления их в индекс.&lt;/li&gt;
+&lt;li&gt;Фиксация изменений: После добавления файлов в индекс, зафиксируйте изменения с помощью команды git commit -m &amp;ldquo;Сообщение о коммите&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Просмотр истории: Для просмотра истории коммитов используйте git log, чтобы увидеть список всех коммитов в репозитории.&lt;/li&gt;
+&lt;li&gt;Ветвление и слияние: Создание новых веток (git branch &amp;lt;branch_name&amp;gt;) и их слияние (git merge &amp;lt;branch_name&amp;gt;) позволяют эффективно организовывать работу над проектом.&lt;/li&gt;
+&lt;li&gt;Откат изменений: Если необходимо откатить изменения, используйте git reset или git revert для возврата к предыдущим состояниям кода.&lt;/li&gt;
+&lt;li&gt;Удаленные репозитории: Для совместной работы с другими разработчиками используйте удаленные репозитории, добавляя их с помощью git remote add origin &lt;url&gt; и отправляя изменения на удаленный сервер с помощью git push.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git предоставляет мощные инструменты для эффективного управления версиями кода, облегчая процесс разработки и сотрудничества. Понимание основных концепций Git поможет вам эффективно использовать его возможности для успешной работы над проектами любого масштаба.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что было на прошлой неделе?</title>
+      <link>https://example.com/post/post1/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/post1/</guid>
+      <description>&lt;h2 id=&#34;студент_которым_можно_гордиться&#34;&gt;#Студент_которым_можно_гордиться&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;В понедельник, я переосилила себя и смогла встать и поехать на три пары английского. Хоть там и не сложно, но все равно так нудно, скучно и тяжело морально сидеть там. Невозможно даже пойти покушать &amp;ndash; нет времени, а преподаватель проверяет присутсвие, чуть что &amp;ndash; сразу звонит и пишет. Неприятно(&lt;/li&gt;
+&lt;li&gt;Во вторник приятно поиграал в шахматы с подругой) я поставила ей шах и мат)))&lt;/li&gt;
+&lt;li&gt;В среду я плохо себя чувствовала и потому ушла после истории. Да, после первой пары:) По истории, кстати, было классное задание: сделать соц.сеть исторической личности, я выбрала Елизавету Петровну.&lt;/li&gt;
+&lt;li&gt;В четверг ничего необыного не было, прила на пары, а потом поехала домой. Самый нелюбимый день(&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;соцсеть-лизоньки&#34;&gt;Соцсеть Лизоньки&lt;/h2&gt;
+&lt;p&gt;Вот, собственно, решила прикрепить страницу великой императрицы. Все получилось конечно не в лучшем качестве, потому что ночью надо спать, а не историей заниматься(&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Срочно подписываемся&#34; srcset=&#34;
+               /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_14f2a2f3091fc7eb29205b00fedf277d.webp 400w,
+               /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_cf772a0f92d30e41288ad74eedd618b2.webp 760w,
+               /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_14f2a2f3091fc7eb29205b00fedf277d.webp&#34;
+               width=&#34;744&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
@@ -243,7 +308,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-762431589&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-931628457&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +318,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-762431589&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-931628457&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
