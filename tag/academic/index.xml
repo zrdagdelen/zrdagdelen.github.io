@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>http://localhost:1313/tag/academic/</link>
+      <atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>http://localhost:1313/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>Прохождение внешнего курса по информационной безопасности</title>
+      <link>http://localhost:1313/post/post3/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post3/</guid>
+      <description>&lt;h2 id=&#34;студент_которым_можно_гордиться&#34;&gt;#Студент_которым_можно_гордиться&lt;/h2&gt;
+&lt;p&gt;Я полностью прошла внешний курс на stepik &amp;lsquo;Основы кибербезопасности&amp;rsquo;. Там было 53 задания в тестовом формате, также были видео-лекции, файлы для изучения.&lt;/p&gt;
+&lt;p&gt;Было очень интересно, узнала много нового, а сами тестовые вопросы были не такими сложными.&lt;/p&gt;
+&lt;p&gt;Так как по прошествии этого курса не выдают сертификат, я прикрепляю скрин того, что я прошла весь материал.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;доказательство&#34; srcset=&#34;
+               /post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_e4cbfbe26b7c2b63e0618b4d6d896438.webp 400w,
+               /post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_088d602b6ed31567b0e815586abb03a7.webp 760w,
+               /post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_e4cbfbe26b7c2b63e0618b4d6d896438.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;379&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями Git</title>
+      <link>http://localhost:1313/post/post2/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post2/</guid>
+      <description>&lt;h2 id=&#34;управление-версиями-в-git&#34;&gt;Управление версиями в Git&lt;/h2&gt;
+&lt;p&gt;Управление версиями в Git - это ключевой аспект разработки программного обеспечения, который позволяет эффективно отслеживать изменения в коде, управлять версиями проекта и сотрудничать с другими разработчиками. Вот несколько основных концепций и команд Git для управления версиями:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Инициализация репозитория: Для начала работы с Git необходимо инициализировать репозиторий в папке проекта с помощью команды git init.&lt;/li&gt;
+&lt;li&gt;Добавление файлов: Чтобы отслеживать изменения в файлах, используйте команду git add &lt;file&gt; для добавления их в индекс.&lt;/li&gt;
+&lt;li&gt;Фиксация изменений: После добавления файлов в индекс, зафиксируйте изменения с помощью команды git commit -m &amp;ldquo;Сообщение о коммите&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Просмотр истории: Для просмотра истории коммитов используйте git log, чтобы увидеть список всех коммитов в репозитории.&lt;/li&gt;
+&lt;li&gt;Ветвление и слияние: Создание новых веток (git branch &amp;lt;branch_name&amp;gt;) и их слияние (git merge &amp;lt;branch_name&amp;gt;) позволяют эффективно организовывать работу над проектом.&lt;/li&gt;
+&lt;li&gt;Откат изменений: Если необходимо откатить изменения, используйте git reset или git revert для возврата к предыдущим состояниям кода.&lt;/li&gt;
+&lt;li&gt;Удаленные репозитории: Для совместной работы с другими разработчиками используйте удаленные репозитории, добавляя их с помощью git remote add origin &lt;url&gt; и отправляя изменения на удаленный сервер с помощью git push.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Git предоставляет мощные инструменты для эффективного управления версиями кода, облегчая процесс разработки и сотрудничества. Понимание основных концепций Git поможет вам эффективно использовать его возможности для успешной работы над проектами любого масштаба.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что было на прошлой неделе?</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>&lt;h2 id=&#34;студент_которым_можно_гордиться&#34;&gt;#Студент_которым_можно_гордиться&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;В понедельник, я переосилила себя и смогла встать и поехать на три пары английского. Хоть там и не сложно, но все равно так нудно, скучно и тяжело морально сидеть там. Невозможно даже пойти покушать &amp;ndash; нет времени, а преподаватель проверяет присутсвие, чуть что &amp;ndash; сразу звонит и пишет. Неприятно(&lt;/li&gt;
+&lt;li&gt;Во вторник приятно поиграал в шахматы с подругой) я поставила ей шах и мат)))&lt;/li&gt;
+&lt;li&gt;В среду я плохо себя чувствовала и потому ушла после истории. Да, после первой пары:) По истории, кстати, было классное задание: сделать соц.сеть исторической личности, я выбрала Елизавету Петровну.&lt;/li&gt;
+&lt;li&gt;В четверг ничего необыного не было, прила на пары, а потом поехала домой. Самый нелюбимый день(&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;соцсеть-лизоньки&#34;&gt;Соцсеть Лизоньки&lt;/h2&gt;
+&lt;p&gt;Вот, собственно, решила прикрепить страницу великой императрицы. Все получилось конечно не в лучшем качестве, потому что ночью надо спать, а не историей заниматься(&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Срочно подписываемся&#34; srcset=&#34;
+               /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_8c1720a72c153faf99130629fbd41a43.webp 400w,
+               /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_cf772a0f92d30e41288ad74eedd618b2.webp 760w,
+               /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_8c1720a72c153faf99130629fbd41a43.webp&#34;
+               width=&#34;744&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
+      <link>http://localhost:1313/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/getting-started/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://hugoblox.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://docs.hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://docs.hugoblox.com/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://hugoblox.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpshugobloxcomsponsor&#34;&gt;&lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://hugoblox.com/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/GetRD/academic-file-converter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://hugoblox.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://docs.hugoblox.com/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://docs.hugoblox.com/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://docs.hugoblox.com/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://docs.hugoblox.com/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/HugoBlox/hugo-blox-builder/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
