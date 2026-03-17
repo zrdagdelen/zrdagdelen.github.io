@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/demo/</link>
+      <atom:link href="http://localhost:1313/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <link>http://localhost:1313/category/demo/</link>
     </image>
     
     <item>
       <title>Прохождение внешнего курса по информационной безопасности</title>
-      <link>https://example.com/post/post3/</link>
+      <link>http://localhost:1313/post/post3/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post3/</guid>
+      <guid>http://localhost:1313/post/post3/</guid>
       <description>&lt;h2 id=&#34;студент_которым_можно_гордиться&#34;&gt;#Студент_которым_можно_гордиться&lt;/h2&gt;
 &lt;p&gt;Я полностью прошла внешний курс на stepik &amp;lsquo;Основы кибербезопасности&amp;rsquo;. Там было 53 задания в тестовом формате, также были видео-лекции, файлы для изучения.&lt;/p&gt;
 &lt;p&gt;Было очень интересно, узнала много нового, а сами тестовые вопросы были не такими сложными.&lt;/p&gt;
@@ -43,7 +43,7 @@
                /post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_e4cbfbe26b7c2b63e0618b4d6d896438.webp 400w,
                /post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_088d602b6ed31567b0e815586abb03a7.webp 760w,
                /post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_e4cbfbe26b7c2b63e0618b4d6d896438.webp&#34;
+               src=&#34;http://localhost:1313/post/post3/coursee_screen_hu538f4efd9e3a32a4b44ae7b2cd6f617b_120220_e4cbfbe26b7c2b63e0618b4d6d896438.webp&#34;
                width=&#34;760&#34;
                height=&#34;379&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -54,9 +54,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/post/post2/</link>
+      <link>http://localhost:1313/post/post2/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post2/</guid>
+      <guid>http://localhost:1313/post/post2/</guid>
       <description>&lt;h2 id=&#34;управление-версиями-в-git&#34;&gt;Управление версиями в Git&lt;/h2&gt;
 &lt;p&gt;Управление версиями в Git - это ключевой аспект разработки программного обеспечения, который позволяет эффективно отслеживать изменения в коде, управлять версиями проекта и сотрудничать с другими разработчиками. Вот несколько основных концепций и команд Git для управления версиями:&lt;/p&gt;
 &lt;ul&gt;
@@ -74,9 +74,9 @@
     
     <item>
       <title>Что было на прошлой неделе?</title>
-      <link>https://example.com/post/post1/</link>
+      <link>http://localhost:1313/post/post1/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/post1/</guid>
+      <guid>http://localhost:1313/post/post1/</guid>
       <description>&lt;h2 id=&#34;студент_которым_можно_гордиться&#34;&gt;#Студент_которым_можно_гордиться&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;В понедельник, я переосилила себя и смогла встать и поехать на три пары английского. Хоть там и не сложно, но все равно так нудно, скучно и тяжело морально сидеть там. Невозможно даже пойти покушать &amp;ndash; нет времени, а преподаватель проверяет присутсвие, чуть что &amp;ndash; сразу звонит и пишет. Неприятно(&lt;/li&gt;
@@ -108,7 +108,7 @@
                /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_8c1720a72c153faf99130629fbd41a43.webp 400w,
                /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_cf772a0f92d30e41288ad74eedd618b2.webp 760w,
                /post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_8c1720a72c153faf99130629fbd41a43.webp&#34;
+               src=&#34;http://localhost:1313/post/post1/elizavet_huf2b51d5d0b45e73115806e8f7a7f4705_888600_8c1720a72c153faf99130629fbd41a43.webp&#34;
                width=&#34;744&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
