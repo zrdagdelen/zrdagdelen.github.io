@@ -68,10 +68,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Большой взрыв&#34; srcset=&#34;
-               /project/mathmod_stage1/1_hua4a41de2ae083a241e1a4d6fe70a1483_627247_443a3844efc15720c6e48b835362f480.webp 400w,
+               /project/mathmod_stage1/1_hua4a41de2ae083a241e1a4d6fe70a1483_627247_23ab9b24fc10bb599b44b63c7b90293b.webp 400w,
                /project/mathmod_stage1/1_hua4a41de2ae083a241e1a4d6fe70a1483_627247_18f388eae628ba76f292f31c934ef2c6.webp 760w,
                /project/mathmod_stage1/1_hua4a41de2ae083a241e1a4d6fe70a1483_627247_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/mathmod_stage1/1_hua4a41de2ae083a241e1a4d6fe70a1483_627247_443a3844efc15720c6e48b835362f480.webp&#34;
+               src=&#34;https://example.com/project/mathmod_stage1/1_hua4a41de2ae083a241e1a4d6fe70a1483_627247_23ab9b24fc10bb599b44b63c7b90293b.webp&#34;
                width=&#34;700&#34;
                height=&#34;581&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -100,10 +100,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Теория образования Солнечной системы&#34; srcset=&#34;
-               /project/mathmod_stage1/2_huf1907e3e1169a2f480b87b6e54b56202_371146_9dffc0284bdcfa4b49de5f354eb53bd9.webp 400w,
+               /project/mathmod_stage1/2_huf1907e3e1169a2f480b87b6e54b56202_371146_6c05082e7d89b66bc805d35d91923ae6.webp 400w,
                /project/mathmod_stage1/2_huf1907e3e1169a2f480b87b6e54b56202_371146_ab80c04f0f93eb8110ed618aaa51dea3.webp 760w,
                /project/mathmod_stage1/2_huf1907e3e1169a2f480b87b6e54b56202_371146_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/mathmod_stage1/2_huf1907e3e1169a2f480b87b6e54b56202_371146_9dffc0284bdcfa4b49de5f354eb53bd9.webp&#34;
+               src=&#34;https://example.com/project/mathmod_stage1/2_huf1907e3e1169a2f480b87b6e54b56202_371146_6c05082e7d89b66bc805d35d91923ae6.webp&#34;
                width=&#34;658&#34;
                height=&#34;228&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -113,7 +113,7 @@
 &lt;p&gt;$$
 v \sim \frac{1}{\sqrt{r}}
 $$&lt;/p&gt;
-&lt;p&gt;где $r$ — расстояние до центра.&lt;/p&gt;
+&lt;p&gt;где \(r \) — расстояние до центра.&lt;/p&gt;
 &lt;h2 id=&#34;математическая-модель&#34;&gt;Математическая модель&lt;/h2&gt;
 &lt;h3 id=&#34;гравитационное-взаимодействие&#34;&gt;Гравитационное взаимодействие&lt;/h3&gt;
 &lt;p&gt;Проведем моделирование одного из этапов эволюции Вселенной — образование некой «солнечной» системы из межзвездного газа. Так как число моделируемых частиц весьма ограничено, то можно сказать, что в этой модели планеты образуются из уже сформировавшихся газопылевых уплотнений, которыми и являются задаваемые частицы.&lt;/p&gt;
@@ -160,10 +160,10 @@ $$&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Силы трения и отталкивания&#34; srcset=&#34;
-               /project/mathmod_stage1/3_hud2ba65f9f8f7455eb194eaab41b85875_14682_0f8016cf11b83e8d7625228cf82b699b.webp 400w,
+               /project/mathmod_stage1/3_hud2ba65f9f8f7455eb194eaab41b85875_14682_808db56baa407039cefdbef81e08d6c1.webp 400w,
                /project/mathmod_stage1/3_hud2ba65f9f8f7455eb194eaab41b85875_14682_0561bb146e02ee543855a5029a862d3b.webp 760w,
                /project/mathmod_stage1/3_hud2ba65f9f8f7455eb194eaab41b85875_14682_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/mathmod_stage1/3_hud2ba65f9f8f7455eb194eaab41b85875_14682_0f8016cf11b83e8d7625228cf82b699b.webp&#34;
+               src=&#34;https://example.com/project/mathmod_stage1/3_hud2ba65f9f8f7455eb194eaab41b85875_14682_808db56baa407039cefdbef81e08d6c1.webp&#34;
                width=&#34;200&#34;
                height=&#34;166&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
